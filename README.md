@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on "Slow Motion" App of movies and series, for the integrating project of the Digital House bootcamp.
 - 🌱 I’m currently learning English, Javascript, Node.js, React.js, Sequelize.
-- 👯 I’m looking to collaborate on any project in which I am needed, using php or javascript preferably
+- 👯 I’m looking to collaborate on any project in which I am needed, using PHP or Javascript preferably
 - 🤔 I’m looking for help with my first job in the IT area
 - 💬 Ask me about contact me for my first job IT
 - 📫 How to reach me: matidiazee@gmail.com.
