@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on any project in which I am needed, using PHP or Javascript preferably
 - 🤔 I’m looking for help with my first job in the IT area
 - 💬 Ask me about contact me for my first job IT
-- 📫 How to reach me: matidiazee@gmail.com.
+- 📫 How to reach me: maty_032@hotmail.es
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
