@@ -4,11 +4,13 @@
 **matidiaz032/matidiaz032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on "Slow Motion" App of movies and series, for the integrating project of the Digital House bootcamp.
-- 🌱 I’m currently learning English, Javascript, Node.js, React.js, Sequelize.
-- 👯 I’m looking to collaborate on any project in which I am needed, using PHP or Javascript preferably
-- 🤔 I’m looking for help with my first job in the IT area
-- 💬 Ask me about contact me for my first job IT
-- 📫 How to reach me: maty_032@hotmail.es
+- 🔭 Currently, I'm working at iSUR Consultora as a Fullstack Developer, using PHP with the Yii2 framework and JQuery for the frontend.
+- 💻 Simultaneously, I'm actively engaged in freelance projects, exploring opportunities to contribute my skills in PHP and Javascript.
+- 🌱 Actively improving my English proficiency and learning various tools to enhance my professional skills.
+- 👯 Open to collaboration on projects where my expertise in PHP or Javascript can be of value.
+- 🚀 Enthusiastic about learning new things and quick to adapt to new technologies.
+- 💼 Open to positions that align with my skill set and eager to contribute to innovative projects.
+- 🌐 Currently updating and enhancing my [portfolio](https://matidiaz032.github.io/), stay tuned for the improvements!
+- 📫 Reach me at: maty_032@hotmail.es or matiasdiazdev@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
