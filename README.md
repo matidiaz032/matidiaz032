@@ -5,7 +5,7 @@
 -->
 
 - 🔭 Currently, I'm working at iSUR Consultora as a Fullstack Developer, using PHP with the Yii2 framework and JQuery for the frontend.
-- 💻 Simultaneously, I'm actively engaged in freelance projects, exploring opportunities to contribute my skills in PHP and Javascript.
+- 💻 Simultaneously, I'm actively engaged in freelance projects, exploring opportunities to contribute my skills in PHP, React.js, and Node.js.
 - 🌱 Actively improving my English proficiency and learning various tools to enhance my professional skills.
 - 👯 Open to collaboration on projects where my expertise in PHP or Javascript can be of value.
 - 🚀 Enthusiastic about learning new things and quick to adapt to new technologies.
